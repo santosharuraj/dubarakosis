@@ -1,2 +1,2 @@
 
-this is a basic html file.
+this is a basic html document.
